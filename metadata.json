@@ -1,0 +1,12 @@
+{
+  "name": "E-Notulen BPKP Provinsi Papua Tengah",
+  "description": "Aplikasi notulen kantor pemerintahan modern untuk pencatatan dan administrasi rapat yang dinamis dengan integrasi Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "short_name": "E-Notulen",
+  "theme_color": "#0f172a",
+  "background_color": "#f8fafc",
+  "display": "standalone"
+}
